@@ -1,0 +1,12 @@
+﻿
+
+<h1>@TempData["Name"]</h1>
+<h1>@ViewBag.Age</h1>
+<h1>@ViewData["Address"]</h1>
+
+<ul>
+    @foreach (var item in ViewData["Car"] as List<Car>)
+    {
+        <li>@item.Id @item.Name</li>
+    }
+</ul>

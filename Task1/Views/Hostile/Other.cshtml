@@ -1,0 +1,20 @@
+﻿@model List<Car>
+
+
+
+<h1>Welcom to Other pageee...</h1>
+<h1>@TempData["othersend"]</h1>
+
+<ul>
+    @foreach (var car in Model)
+    {
+        <li>@car.Id @car.Name</li>
+    }
+</ul>
+
+ @* <ul>
+    @foreach (var item in Model)
+    {
+        <li>@item.Name</li>
+    }
+</ul> *@

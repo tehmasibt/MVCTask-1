@@ -1,0 +1,8 @@
+﻿
+
+<ul>
+    @foreach (var item in TempData["othersend"] as List<Car>)
+    {
+        <li>@item.Id @item.Name</li>
+    }
+</ul>

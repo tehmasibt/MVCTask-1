@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "YmDzFtw91btyueLF/Md8uL9qJnDdno0EstFTaWrp9z0=",
+  "Source": "Task1",
+  "BasePath": "_content/Task1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Task1\\wwwroot",
+      "Source": "Task1",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\İş masası\\MVCTask1\\Task1\\Task1\\wwwroot\\",
+      "BasePath": "_content/Task1",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\User\\OneDrive\\İş masası\\MVCTask1\\Task1\\Task1\\wwwroot\\Img\\GT63s.jpg",
+      "SourceId": "Task1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\İş masası\\MVCTask1\\Task1\\Task1\\wwwroot\\",
+      "BasePath": "_content/Task1",
+      "RelativePath": "Img/GT63s.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Img\\GT63s.jpg"
+    }
+  ]
+}
